@@ -1,0 +1,8 @@
+{
+  "name": "takcovid19",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
